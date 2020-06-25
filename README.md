@@ -1,1 +1,2 @@
-# Reinforcement-Learning-Assignment from course "Reinforcement Learning" in Uni Stuttgart
+# Reinforcement-Learning-Assignment 
+from course "Reinforcement Learning" in Uni Stuttgart
